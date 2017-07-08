@@ -1,0 +1,3 @@
+com\exam\task\bean\Task.class
+com\exam\task\controller\TaskController.class
+com\exam\task\service\TaskService.class
